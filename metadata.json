@@ -1,0 +1,6 @@
+{
+  "name": "MARA Barber Shop",
+  "description": "A premium, dark luxury barber shop landing page and online booking system in CMC, Addis Ababa, Ethiopia. Features real-time bookings, contact portal, and client reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
